@@ -1,16 +1,24 @@
-### Hi there 👋
+<div align="center">
+
+<p>
+    <a href="https://onelang.org/" alt="The One Programming Language">
+        <img width="150" src="https://avatars.githubusercontent.com/u/40718659?s=200&v=4" alt="The One Programming Language">
+    </a>
+</p>
+
+## The One Programming Language 💚 💙 🧡 🤍 💖 🖤
+
+[Onelang.org](https://onelang.org) |
+[Help wanted](https://github.com/One-Language/One/issues/new)
+
+</div>
+<div align="center">
 
 <!--
-**basalumutgazi/basalumutgazi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+[![Build Status][WorkflowBadge]][WorkflowUrl]
 -->
+[![Patreon][PatreonBadge]][PatreonUrl]
+[![Discord][DiscordBadge]][DiscordUrl]
+[![Twitter][TwitterUrl]][TwitterBadge]
+
+</div>
